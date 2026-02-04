@@ -2,7 +2,7 @@
 repositório de exemplo na criação  de repositório
 
 
-### Estudos 
+# Estudos 
 - frontand
 - html
 - css
