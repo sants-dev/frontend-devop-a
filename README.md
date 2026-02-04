@@ -6,5 +6,5 @@ repositório de exemplo na criação  de repositório
 - frontand
 - html
 - css
-- framework
+- frameworks
 - devops
